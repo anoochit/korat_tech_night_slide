@@ -3,12 +3,9 @@ marp: true
 theme: default
 class: invert
 paginate: true
-_class: lead
 ---
 
-# Human-in-the-Loop AI
-
-## Building Collaborative Agentic Workflows in Publishing
+# Building Collaborative Agentic Workflows in Publishing
 
 **Anuchit Chalothorn**
 *Technology Consultant & Author*
@@ -19,7 +16,7 @@ _class: lead
 
 - **Independent Technology Consultant & Author** (40+ technical books)
 - **Former Tech Lead** @ IoT and Digital Innovation Institute, depa
-- **Former Senior Software Engineer** @ SIPA (Lead Developer for Suriyan & Chantra)
+- **Former Senior Software Engineer** @ SIPA (Lead Developer for Suriyan & Content writer ThaiOpenSource.org)
 - **Founder** @ RedLine Software (merged with Trilex Labs)
 
 ---
@@ -34,11 +31,30 @@ _class: lead
 
 ---
 
-# Enter Generative AI: From Automation to Assistance
+# Plot / Draft
 
-- **Strategic Coaching** – Elevating KDP and Etsy store performance
-- **Workflow Automation** – Connecting services seamlessly with Make.com and n8n
-- **Scalable Generation** – Building automated, custom eBook generators as SaaS
+โนเอลตอบ "หิวมากเลย" แต่กระชับกอดให้แน่นขึ้นอีกนิด
+
+"เอ๊... หิวหรือไม่หิวคะ" แนนถามหยอก 
+
+โนเอลตอบ "หิวแนนมากเลย"
+
+---
+
+# Generative AI
+
+โนเอลกระชับอ้อมกอดให้แน่นขึ้นอีกนิด "หิวมากเลย..."
+
+"เอ๊... หิวหรือไม่หิวคะ?" แนนถามอย่างขี้เล่น
+
+โนเอลตอบด้วยน้ำเสียงกระซิบ "หิวแนน...มากกว่า"
+
+---
+
+# Generative AI: The Automation 
+
+- **Workflow Automation** – Seamlessly integrate services using platforms like Make.com or n8n to orchestrate end‑to‑end processes.
+- **Scalable Content Generation** – Leverage AI‑powered SaaS tools to produce high‑quality eBooks at scale, adapting tone and style on demand.
 
 ---
 
@@ -50,12 +66,12 @@ _class: lead
 
 ---
 
-# Core Tooling & Tech Stack
+# Core Tooling
 
-- **Knowledge Base** – Markdown-driven wikis for research and organization
-- **Compilation Engine** – Custom cookbook templates and automated EPUB/PDF generators
-- **Authoring Suite** – Google GenKit and Vertex AI for intelligent research, drafting, image generation, and note-taking
-- **Publishing Studio** – An end-to-end agentic workspace for Research, Writing, and Marketing
+- **Writing** – Content in markdown format.
+- **Compile** – Cookbook templates & auto EPUB/PDF generation.
+- **Authoring** – Agent for research, drafting, and image creation.
+- **Publishing** – Full agentic workspace covering research, writing, and marketing.
 
 ---
 
@@ -63,7 +79,7 @@ _class: lead
 
 ---
 
-# Human-in-the-Loop Collaboration
+# Human-AI Collaboration
 
 - **Seamless Integration** – Embedding AI into standard writing workflows
 - **Iterative Drafting** – Collaborating on drafts to polish prose and style
@@ -73,11 +89,13 @@ _class: lead
 
 # Transform GenAI to Multi-Agent System
 
-- **Authoring Tools** – Powering creative workflows with Google GenKit and Vertex AI
-- **Publishing Studio** – A sophisticated ADK-based multi-agent system that autonomously manages the entire technical book lifecycle, from initial research and outlining to concurrent drafting, editing, marketing, and performance analytics.
-- **(Any)Agent & Specialized Skills** – Orchestrating custom sub-agents equipped with modular skills for dynamic task execution
+- **Authoring Tools** – Streamlined content refinement, note‑taking, image generation, and marketing support.
+- **Publishing Studio** – ADK‑driven multi‑agent platform that automates research, outlining, drafting, editing, marketing, and analytics.
+- **(Any)Agent & Specialized Skills** – Modular sub‑agents equipped with custom skills for dynamic task execution
 
 ---
 
-# Q & A
+# Link
 
+- [Publishing Studio](https://github.com/anoochit/publishing_studio)
+- [Dart แบบ Dart Dart](https://linktr.ee/darthdart)
