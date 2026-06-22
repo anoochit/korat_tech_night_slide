@@ -68,7 +68,7 @@ paginate: true
 
 # Core Tooling
 
-- **Writing** – Content in markdown format.
+- **Plot/Draft** – Content in markdown format.
 - **Compile** – Cookbook templates & auto EPUB/PDF generation.
 - **Authoring** – Agent for research, drafting, and image creation.
 - **Publishing** – Full agentic workspace covering research, writing, and marketing.
