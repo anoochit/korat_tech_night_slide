@@ -1,8 +1,23 @@
 ---
 marp: true
 theme: default
-class: invert
 paginate: true
+style: |
+  /* Premium dark theme */
+  section {
+    background:  #0d1117 ;
+    color: #e5e7eb;
+    font-size: 2.2rem;
+  }
+  h1, h2, h3 {
+    font-family: 'Inter', sans-serif;
+    color: #20a2ffff;
+    font-size: 3.0rem;
+  }
+  a {
+    color: #60a5fa;
+  }
+  img[alt="QRz code"] { border: 30px solid white;}
 ---
 
 # Building Collaborative Agentic Workflows in Publishing
@@ -31,7 +46,7 @@ paginate: true
 
 ---
 
-# Plot / Draft
+# Plot
 
 โนเอลตอบ "หิวมากเลย" แต่กระชับกอดให้แน่นขึ้นอีกนิด
 
@@ -48,6 +63,18 @@ paginate: true
 "เอ๊... หิวหรือไม่หิวคะ?" แนนถามอย่างขี้เล่น
 
 โนเอลตอบด้วยน้ำเสียงกระซิบ "หิวแนน...มากกว่า"
+
+---
+
+# Plot
+
+ทอยถอนริมฝีปากออกช้าๆ กระซิบข้างหูเจน "ตื่นได้หรือยัง" เจนหัวเราะคิกแล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
+
+---
+
+# Generative AI
+
+ทอยถอนริมฝีปากออกช้าๆ ก่อนจะกระซิบข้างหูเธอ "ตื่นได้หรือยัง? หรืออยากให้ปลุกอีก?" เจนหัวเราะคิกก่อนจะซุกหน้ากับไหล่ของทอย แล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
 
 ---
 
@@ -80,8 +107,8 @@ paginate: true
 - Model
 - Instruction
 - Tools (Build-in tools, Functional tools, External tools)
-- *Skills*
-- *Memory & Session*
+- *Skills (option)*
+- *Memory & Session (option)*
 
 ---
 
@@ -114,14 +141,12 @@ paginate: true
 ---
 
 # Link
+ 
+- https://linktr.ee/darthdart  
+- https://github.com/anoochit/publishing_studio
 
-<table>
-<tr>
-<td>
-- [Dart แบบ Dart Dart](https://linktr.ee/darthdart)<br>- [Publishing Studio](https://github.com/anoochit/publishing_studio)
-</td>
-<td>
+---
 
-</td>
-</tr>
-</table>
+# Download
+
+<center><img src="./48f2xdbp-qr.png" alt="QRz code" /></center>
