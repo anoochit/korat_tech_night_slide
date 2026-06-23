@@ -14,10 +14,10 @@ paginate: true
 
 # About Me
 
-- **Independent Technology Consultant & Author** (40+ technical books)
+- **Technology Consultant & Author** 40+ technical books
 - **Former Tech Lead** @ IoT and Digital Innovation Institute, depa
 - **Former Senior Software Engineer** @ SIPA (Lead Developer for Suriyan & Content writer ThaiOpenSource.org)
-- **Founder** @ RedLine Software (merged with Trilex Labs)
+- **Founder** @ RedLine Software (Merged with Trilex Labs)
 
 ---
 
@@ -75,7 +75,25 @@ paginate: true
 
 ---
 
-<img src="https://github.com/anoochit/publishing_studio/raw/master/screenshots/screenshot01.jpg" style="max-width: 100%; max-height: 400px; border-radius: 8px; box-shadow: 0 4px 20px rgba(0,0,0,0.15); margin-top: 10px;" alt="Publishing Studio Screenshot" />
+# Agent components
+
+- Model
+- Instruction
+- Tools (Build-in tools, Functional tools, External tools)
+- *Skills*
+- *Memory & Session*
+
+---
+
+<img src="https://github.com/anoochit/publishing_studio/raw/master/screenshots/screenshot01.jpg" style="max-width: 100%" alt="Publishing Studio Screenshot" />
+
+---
+
+# Publishing studio 
+
+- **Full Lifecycle:** "I want to publish a technical book about 'Building AI Agents with ADK'. Run the full studio lifecycle."
+- **Research Only:** "Research the 'Rust for WebAssembly' market and generate a 10-chapter technical outline in research/outline.md."
+- **Targeted Drafting:** "Based on the existing research/outline.md, draft Chapter 1 and Chapter 2 using the writing sub-agents."
 
 ---
 
