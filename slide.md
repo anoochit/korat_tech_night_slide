@@ -60,9 +60,9 @@ paginate: true
 
 # Case Study: "The Lavendear Project"
 
-- **The Challenge** – Polishing and writing a romance novel (NC 18+) from readAwrite
-- **The Solution** – Leveraging automated n8n workflows for rewriting and polishing
-- **The Result** – Fluent, engaging, and highly stylized storytelling produced collaboratively with AI
+- **The Challenge** – Polishing and writing a romance novel (NC 18+) from readAwrite.
+- **The Solution** – Leveraging automated n8n workflows for rewriting and polishing.
+- **The Result** – Fluent, engaging, and highly stylized storytelling produced collaboratively with AI.
 
 ---
 
@@ -99,9 +99,9 @@ paginate: true
 
 # Human-AI Collaboration
 
-- **Seamless Integration** – Embedding AI into standard writing workflows
-- **Iterative Drafting** – Collaborating on drafts to polish prose and style
-- **Continuous Feedback** – Keeping the human in control as the creative director
+- **Seamless Integration** – Embedding AI into standard writing workflows.
+- **Iterative Drafting** – Collaborating on drafts to polish prose and style.
+- **Continuous Feedback** – Keeping the human in control as the creative director.
 
 ---
 
@@ -109,11 +109,19 @@ paginate: true
 
 - **Authoring Tools** – Streamlined content refinement, note‑taking, image generation, and marketing support.
 - **Publishing Studio** – ADK‑driven multi‑agent platform that automates research, outlining, drafting, editing, marketing, and analytics.
-- **(Any)Agent & Specialized Skills** – Modular sub‑agents equipped with custom skills for dynamic task execution
+- **(Any)Agent & Specialized Skills** – Modular sub‑agents equipped with custom skills for dynamic task execution.
 
 ---
 
 # Link
 
-- [Dart แบบ Dart Dart](https://linktr.ee/darthdart)
-- [Publishing Studio](https://github.com/anoochit/publishing_studio)
+<table>
+<tr>
+<td>
+- [Dart แบบ Dart Dart](https://linktr.ee/darthdart)<br>- [Publishing Studio](https://github.com/anoochit/publishing_studio)
+</td>
+<td>
+
+</td>
+</tr>
+</table>
