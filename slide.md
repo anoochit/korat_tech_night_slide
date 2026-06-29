@@ -23,13 +23,13 @@ style: |
 # Building Collaborative Agentic Workflows in Publishing
 
 **Anuchit Chalothorn**
-*Technology Consultant & Author*
+*Technology Consultant*
 
 ---
 
 # About Me
 
-- **Technology Consultant & Author** 40+ technical books
+- **Technology Consultant** 40+ technical books
 - **Former Tech Lead** @ IoT and Digital Innovation Institute, depa
 - **Former Senior Software Engineer** @ SIPA (Lead Developer for Suriyan & Content writer ThaiOpenSource.org)
 - **Founder** @ RedLine Software (Merged with Trilex Labs)
@@ -78,7 +78,7 @@ style: |
 
 ---
 
-# Generative AI: The Automation 
+# Generative AI: The Automation
 
 - **Workflow Automation** – Seamlessly integrate services using platforms like n8n to orchestrate end‑to‑end processes.
 - **Scalable Content Generation** – Leverage AI‑powered SaaS tools to produce high‑quality eBooks at scale, adapting tone and style on demand.
@@ -88,7 +88,7 @@ style: |
 # Case Study: "The Lavendear Project"
 
 - **The Challenge** – Polishing and writing a romance novel (NC 18+) from readAwrite.
-- **The Solution** – Leveraging automated n8n workflows for rewriting and polishing.
+- **The Solution** – Leveraging automated workflows for rewriting and polishing.
 - **The Result** – Fluent, engaging, and highly stylized storytelling produced collaboratively with AI.
 
 ---
@@ -141,9 +141,11 @@ style: |
 ---
 
 # Link
- 
-- https://linktr.ee/darthdart  
+
 - https://github.com/anoochit/publishing_studio
+- https://github.com/anoochit/cookbook_template
+- https://github.com/anoochit/cookbook_generator
+- https://linktr.ee/darthdart
 
 ---
 
