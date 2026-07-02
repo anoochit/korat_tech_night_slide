@@ -55,6 +55,14 @@ style: |
 
 ---
 
+# Case Study: "The Lavendear Project"
+
+- **The Challenge** – Polishing and writing a romance novel (NC 18+) from readAwrite.
+- **The Solution** – Leveraging automated workflows for rewriting and polishing.
+- **The Result** – Fluent, engaging, and highly stylized storytelling produced collaboratively with AI.
+
+---
+
 # Plot
 
 โนเอลตอบ "หิวมากเลย" แต่กระชับกอดให้แน่นขึ้นอีกนิด
@@ -98,11 +106,28 @@ style: |
 
 ---
 
-# Case Study: "The Lavendear Project"
+# Agent
 
-- **The Challenge** – Polishing and writing a romance novel (NC 18+) from readAwrite.
-- **The Solution** – Leveraging automated workflows for rewriting and polishing.
-- **The Result** – Fluent, engaging, and highly stylized storytelling produced collaboratively with AI.
+The basic agent components
+
+<img src="https://raw.githubusercontent.com/anoochit/korat_tech_night_slide/refs/heads/master/agent_tools_flow.png">
+
+---
+
+# Primitives Agent workflow
+
+- Sequential
+- Loop
+- Parallel
+- Combind to hierarchy
+
+---
+
+# Transform GenAI to Multi-Agent System
+
+- **Authoring Tools** – Streamlined content refinement, note‑taking, image generation, and marketing support.
+- **Publishing Studio** – ADK‑driven multi‑agent platform that automates research, outlining, drafting, editing, marketing, and analytics.
+- **(Any)Agent & Specialized Skills** – Modular sub‑agents equipped with custom skills for dynamic task execution.
 
 ---
 
@@ -112,23 +137,6 @@ style: |
 - **Compile** – Cookbook templates & auto EPUB/PDF generation.
 - **Authoring** – Agent for research, drafting, and image creation.
 - **Publishing** – Full agentic workspace covering research, writing, and marketing.
-
----
-
-# Agent components
-
-The basic agent components:
-
-<img src="https://raw.githubusercontent.com/anoochit/korat_tech_night_slide/refs/heads/master/agent_tools_flow.png">
-
----
-
-# Primitives Agent Workflow
-
-- Sequential
-- Loop
-- Parallel
-- Combind to hierarchy
 
 ---
 
@@ -152,14 +160,6 @@ The basic agent components:
 
 ---
 
-# Transform GenAI to Multi-Agent System
-
-- **Authoring Tools** – Streamlined content refinement, note‑taking, image generation, and marketing support.
-- **Publishing Studio** – ADK‑driven multi‑agent platform that automates research, outlining, drafting, editing, marketing, and analytics.
-- **(Any)Agent & Specialized Skills** – Modular sub‑agents equipped with custom skills for dynamic task execution.
-
----
-
 # Link
 
 - https://github.com/anoochit/publishing_studio
@@ -171,4 +171,4 @@ The basic agent components:
 
 # Download
 
-<center><img src="./48f2xdbp-qr.png" alt="QRz code" /></center>
+<center><img src="./48f2xdbp-qr.png" alt="QR code" /></center>
