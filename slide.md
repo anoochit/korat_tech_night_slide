@@ -117,11 +117,13 @@ style: |
 
 # Agent components
 
+The basic agent components:
+
 <img src="https://raw.githubusercontent.com/anoochit/korat_tech_night_slide/refs/heads/master/agent_tools_flow.png">
 
 ---
 
-# Primitives Workflow
+# Primitives Agent Workflow
 
 - Sequential
 - Loop
