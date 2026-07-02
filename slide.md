@@ -7,12 +7,12 @@ style: |
   section {
     background:  #0d1117 ;
     color: #e5e7eb;
-    font-size: 2.2rem;
+    font-size: 2.3rem;
   }
   h1, h2, h3 {
     font-family: 'Inter', sans-serif;
     color: #20a2ffff;
-    font-size: 3.0rem;
+    font-size: 3.4rem;
   }
   a {
     color: #60a5fa;
@@ -29,9 +29,9 @@ style: |
 
 # About Me
 
-- **Technology Consultant** 40+ technical books
+- **Technology Consultant** @ Self-employed
 - **Former Tech Lead** @ IoT and Digital Innovation Institute, depa
-- **Former Senior Software Engineer** @ SIPA (Lead Developer for Suriyan & Content writer ThaiOpenSource.org)
+- **Former Senior Software Engineer** @ SIPA (Lead Developer Suriyan & Content writer ThaiOpenSource.org)
 - **Founder** @ RedLine Software (Merged with Trilex Labs)
 
 ---
@@ -43,6 +43,14 @@ style: |
 3. **Writing & Ghostwriting** – Translating concepts into rich prose
 4. **Design & Compilation** – Crafting layouts (e.g., EPUB, PDF)
 5. **Distribution & Marketing** – Reaching readers via paperback and eBook stores
+
+---
+
+# What the AI can do in authoring
+
+1. Brainstroming
+2. Drafting
+3. Extend your *plot*
 
 ---
 
@@ -68,20 +76,24 @@ style: |
 
 # Plot
 
-ทอยถอนริมฝีปากออก กระซิบข้างหูเจน "ตื่นหรือยัง" เจนหัวเราะคิกแล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
+ทอยถอนริมฝีปากออก กระซิบข้างหูเจน "ตื่นหรือยัง" 
+
+เจนหัวเราะคิกแล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
 
 ---
 
 # Generative AI
 
-ทอยถอนริมฝีปากออกช้าๆ ก่อนจะกระซิบข้างหูเธอ "ตื่นได้หรือยัง? หรืออยากให้ปลุกอีก?" เจนหัวเราะคิกก่อนจะซุกหน้ากับไหล่ของทอย แล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
+ทอยถอนริมฝีปากออกช้าๆ ก่อนจะกระซิบข้างหูเธอ "ตื่นได้หรือยัง? หรืออยากให้ปลุกอีก?" 
+
+เจนหัวเราะคิกก่อนจะซุกหน้ากับไหล่ของทอย แล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
 
 ---
 
 # Generative AI: The Automation
 
 - **Workflow Automation** – Seamlessly integrate services using platforms like n8n to orchestrate end‑to‑end processes.
-- **Scalable Content Generation** – Leverage AI‑powered SaaS tools to produce high‑quality eBooks at scale, adapting tone and style on demand.
+- **Scalable Content Generation** – Leverage *AI‑powered SaaS* tools to produce high‑quality eBooks at scale, adapting tone and style on demand.
 
 ---
 
@@ -104,11 +116,7 @@ style: |
 
 # Agent components
 
-- Model
-- Instruction
-- Tools (Build-in tools, Functional tools, External tools)
-- *Skills (option)*
-- *Memory & Session (option)*
+<img src="agent_tools_flow.png">
 
 ---
 
