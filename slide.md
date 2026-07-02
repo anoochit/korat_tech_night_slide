@@ -48,9 +48,10 @@ style: |
 
 # What the AI can do in authoring
 
-1. Brainstroming
-2. Drafting
-3. Extend your *plot*
+1. Research
+2. Brainstorming
+3. Drafting
+4. Extend your *plot*
 
 ---
 
@@ -116,7 +117,16 @@ style: |
 
 # Agent components
 
-<img src="agent_tools_flow.png">
+<img src="https://raw.githubusercontent.com/anoochit/korat_tech_night_slide/refs/heads/master/agent_tools_flow.png">
+
+---
+
+# Primitives Workflow
+
+- Sequential
+- Loop
+- Parallel
+- Combind to hierarchy
 
 ---
 
