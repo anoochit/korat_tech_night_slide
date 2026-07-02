@@ -17,7 +17,7 @@ style: |
   a {
     color: #60a5fa;
   }
-  img[alt="QRcode"] { border: 50px solid white; border-radius:25px}
+  img[alt="QRcode"] { border: 40px solid white; border-radius:25px}
 ---
 
 # Building Collaborative Agentic Workflows in Publishing
@@ -68,7 +68,7 @@ style: |
 
 โนเอลตอบ "หิวมากเลย" แต่กระชับกอดให้แน่นขึ้นอีกนิด
 
-"เอ๊... หิวหรือไม่หิวคะ" แนนถามหยอก 
+"เอ๊... หิวหรือไม่หิวคะ" แนนถามหยอก
 
 โนเอลตอบ "หิวแนนมากเลย"
 
@@ -86,7 +86,7 @@ style: |
 
 # Plot
 
-ทอยถอนริมฝีปากออก กระซิบข้างหูเจน "ตื่นหรือยัง" 
+ทอยถอนริมฝีปากออก กระซิบข้างหูเจน "ตื่นหรือยัง"
 
 เจนหัวเราะคิกแล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
 
@@ -94,7 +94,7 @@ style: |
 
 # Generative AI
 
-ทอยถอนริมฝีปากออกช้าๆ ก่อนจะกระซิบข้างหูเธอ "ตื่นได้หรือยัง? หรืออยากให้ปลุกอีก?" 
+ทอยถอนริมฝีปากออกช้าๆ ก่อนจะกระซิบข้างหูเธอ "ตื่นได้หรือยัง? หรืออยากให้ปลุกอีก?"
 
 เจนหัวเราะคิกก่อนจะซุกหน้ากับไหล่ของทอย แล้วกระซิบตอบเบาๆ "ปลุกอีกหน่อยก็ได้นะ..."
 
@@ -124,24 +124,24 @@ The basic agent components
 
 ---
 
+<img src="https://github.com/anoochit/publishing_studio/raw/master/screenshots/screenshot01.jpg" style="max-width: 100%" alt="Publishing Studio Screenshot" />
+
+---
+
+# Publishing studio
+
+- **Full Lifecycle:** "I want to publish a technical book about 'Building AI Agents with ADK'. Run the full studio lifecycle."
+- **Research Only:** "Research the 'Rust for WebAssembly' market and generate a 10-chapter technical outline in research/outline.md."
+- **Targeted Drafting:** "Based on the existing research/outline.md, draft Chapter 1 and Chapter 2 using the writing sub-agents."
+
+---
+
 # Core Tooling
 
 - **Plot/Draft** – Content in markdown format.
 - **Compile** – Cookbook templates & auto EPUB/PDF generation.
 - **Authoring** – Agent for research, drafting, and image creation.
 - **Publishing** – Full agentic workspace covering research, writing, and marketing.
-
----
-
-<img src="https://github.com/anoochit/publishing_studio/raw/master/screenshots/screenshot01.jpg" style="max-width: 100%" alt="Publishing Studio Screenshot" />
-
----
-
-# Publishing studio 
-
-- **Full Lifecycle:** "I want to publish a technical book about 'Building AI Agents with ADK'. Run the full studio lifecycle."
-- **Research Only:** "Research the 'Rust for WebAssembly' market and generate a 10-chapter technical outline in research/outline.md."
-- **Targeted Drafting:** "Based on the existing research/outline.md, draft Chapter 1 and Chapter 2 using the writing sub-agents."
 
 ---
 
@@ -163,10 +163,10 @@ The basic agent components
 
 # Link
 
-- https://github.com/anoochit/publishing_studio
-- https://github.com/anoochit/cookbook_template
-- https://github.com/anoochit/cookbook_generator
-- https://linktr.ee/darthdart
+- <https://github.com/anoochit/publishing_studio>
+- <https://github.com/anoochit/cookbook_template>
+- <https://github.com/anoochit/cookbook_generator>
+- <https://linktr.ee/darthdart>
 
 ---
 
