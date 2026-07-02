@@ -17,12 +17,13 @@ style: |
   a {
     color: #60a5fa;
   }
-  img[alt="QRcode"] { border: 30px solid white;}
+  img[alt="QRcode"] { border: 50px solid white; border-radius:25px}
 ---
 
 # Building Collaborative Agentic Workflows in Publishing
 
 **Anuchit Chalothorn**
+
 *Technology Consultant*
 
 ---
@@ -114,20 +115,12 @@ The basic agent components
 
 ---
 
-# Primitives Agent workflow
+# Agent workflow
 
 - Sequential
 - Loop
 - Parallel
 - Combind to hierarchy
-
----
-
-# Transform GenAI to Multi-Agent System
-
-- **Authoring Tools** – Streamlined content refinement, note‑taking, image generation, and marketing support.
-- **Publishing Studio** – ADK‑driven multi‑agent platform that automates research, outlining, drafting, editing, marketing, and analytics.
-- **(Any)Agent & Specialized Skills** – Modular sub‑agents equipped with custom skills for dynamic task execution.
 
 ---
 
@@ -157,6 +150,14 @@ The basic agent components
 - **Seamless Integration** – Embedding AI into standard writing workflows.
 - **Iterative Drafting** – Collaborating on drafts to polish prose and style.
 - **Continuous Feedback** – Keeping the human in control as the creative director.
+
+---
+
+# Transformation
+
+- **Authoring Tools** – Streamlined content refinement, note‑taking, image generation, and marketing support.
+- **Publishing Studio** – ADK‑driven multi‑agent platform that automates research, outlining, drafting, editing, marketing, and analytics.
+- **Agent & Specialized Skills** – Modular sub‑agents equipped with custom skills for dynamic task execution.
 
 ---
 
