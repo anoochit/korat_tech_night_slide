@@ -99,7 +99,7 @@ style: |
 
 ---
 
-# Generative AI: The Automation
+# The Automation
 
 - **Workflow Automation** – Seamlessly integrate services using platforms like n8n to orchestrate end‑to‑end processes.
 - **Scalable Content Generation** – Leverage *AI‑powered SaaS* tools to produce high‑quality eBooks at scale, adapting tone and style on demand.
