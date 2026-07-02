@@ -17,7 +17,7 @@ style: |
   a {
     color: #60a5fa;
   }
-  img[alt="QRz code"] { border: 30px solid white;}
+  img[alt="QRcode"] { border: 30px solid white;}
 ---
 
 # Building Collaborative Agentic Workflows in Publishing
@@ -171,4 +171,4 @@ The basic agent components
 
 # Download
 
-<center><img src="./48f2xdbp-qr.png" alt="QR code" /></center>
+<center><img src="./48f2xdbp-qr.png" alt="QRcode" /></center>
